@@ -1,0 +1,205 @@
+{
+    "owner": {
+        "tag": "",
+        "tagcolor": [
+            1,
+            0.6,
+            0.4
+        ],
+        "commands": [
+            "ALL"
+        ],
+        "ids": [
+            "pb-IF4qJ0MA",
+            "pb-IF4UUmVYFA==",
+            "pb-IF42VXQbUw==",
+            "pb-IF4QU2tSBw==",
+            "pb-JiNJARBbXENAX1xEF0NZV1RFEEBbRFJB",
+            "pb-IF4lVU9bEA==",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "adminvip": {
+        "tag": "",
+        "tagcolor": [
+            0.8,
+            0.05,
+            0.05
+        ],
+        "commands": [
+            "remove",
+            "end",
+            "quit",
+            "mute",
+            "pause",
+            "mute",
+            "restart",
+            "unmute",
+            "unmutechat",
+            "mutechat",
+            "kick",
+            "fly",
+            "creep",
+            "nv",
+            "dv",
+            "night",
+            "day",
+            "",
+            "invisible",
+            "headless",
+            "celebrate",
+            "inv",
+            "celeb",
+            "",
+            "spaz",
+            "sm",
+            "rtag",
+            "reffect",
+            "box",
+            "kill",
+            "mute",
+            "unmute",
+            "hug",
+            "3dfly"
+        ],
+        "ids": [
+            "pb-IF4QHGcj",
+            "",
+            ""
+        ]
+    },
+    "admin": {
+        "tag": "",
+        "tagcolor": [
+            0.8,
+            0.4,
+            0.2
+        ],
+        "commands": [
+            "remove",
+            "end",
+            "quit",
+            "mute",
+            "pause",
+            "restart",
+            "unmute",
+            "unmutechat",
+            "mutechat",
+            "kill",
+            "mute",
+            "unmute",
+            "kick"
+        ],
+        "ids": [
+            "pb-IF4vUlQsVw==",
+            "",
+            ""
+        ]
+    },
+    "vip": {
+        "tag": "Egg++",
+        "tagcolor": [
+            1,
+            0.8,
+            0
+        ],
+        "commands": [
+            "nv",
+            "dv",
+            "night",
+            "day",
+            "fly",
+            "invisible",
+            "headless",
+            "celebrate",
+            "inv",
+            "celeb",
+            "flo",
+            "spaz",
+            "sm",
+            "selftag",
+            "selfeffect",
+            "rtag",
+            "reffect",
+            "box",
+            "dark",
+            "floater"
+        ],
+        "ids": [
+            ""
+        ]
+    },
+    "smoothy": {
+        "tag": "smoothy",
+        "tagcolor": [
+            1,
+            1,
+            1
+        ],
+        "commands": [],
+        "ids": []
+    },
+    "pros": {
+        "tag": "pros",
+        "tagcolor": [
+            1,
+            1,
+            1
+        ],
+        "commands": [],
+        "ids": []
+    },
+    "top5": {
+        "tag": "top5",
+        "tagcolor": [
+            1,
+            1,
+            1
+        ],
+        "commands": [],
+        "ids": [
+            "pb-IF4uU3gkNw==",
+            "pb-IF4vUlQsVw==",
+            "pb-IF4OVWENBg==",
+            "pb-JiNJARBbXENAX1xEF0NZV1RFEEBbRFJB",
+            "pb-IF4QUnpeAA=="
+        ]
+    },
+    "bypass-warn": {
+        "tag": "",
+        "tagcolor": [
+            1,
+            1,
+            1
+        ],
+        "commands": [],
+        "ids": [
+            "pb-IF5XUm9eAg==",
+            "pb-IF43VUwlAg==",
+            "pb-IF4iVUc5Cg==",
+            "pb-IF4vNnMJ",
+            "pb-IF4TVWwZUQ=="
+        ]
+    },
+    "kick": {
+        "tag": "",
+        "tagcolor": [
+            1,
+            1,
+            1
+        ],
+        "commands": [
+            "kick"
+        ],
+        "ids": [
+            "pb-IF43VWoxDw==",
+            "pb-IF5RU2FYIw==",
+            "pb-IF43VWoxDw==",
+            "pb-IF4QU2tSBw=="
+        ]
+    }
+}
