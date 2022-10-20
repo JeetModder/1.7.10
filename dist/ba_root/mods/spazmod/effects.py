@@ -476,7 +476,7 @@ class Effect(ba.Actor):
         if spaz is None or not spaz.is_alive() or not spaz.node.exists():
             self.handlemessage(ba.DieMessage())
             return
-        ba.emitfx(position=spaz.node.position, velocity=(0,10,0), count=100, spread=0.3, scale=3, chunk_type="sweat")
+        ba.emitfx(position=spaz.node.position, velocity=spaz.node.velocity, count=random.randint(1,10), scale=2, spread=0.2, chunk_type="sweat")
 
     def emitSlime(self):
         spaz = self.spazRef()
